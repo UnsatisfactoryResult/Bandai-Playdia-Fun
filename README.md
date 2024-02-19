@@ -1,6 +1,6 @@
 # Bandai-Playdia-Fun
 
-I have added a capacitor map. There are a lot of caps in the playdia.
+I have added a capacitor map. There are a lot of caps in the playdia, 61 to be exact.
 
 Here's a convenient DigiKey list I made. Chemi-Con KMG series make up the vast majority. There are a few oddball ones that I had to tap Nichicon, Panasonic, and Rubycon for. 0.1uF electrolytics seem to be on the out, but I did include one that has a few thousand in stock even though it's obsolete. 
 
