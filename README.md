@@ -6,6 +6,8 @@ Here's a convenient DigiKey list I made. Chemi-Con KMG series make up the vast m
 
 https://www.digikey.com/en/mylists/list/4BPBJFY0HF
 
-Some of the power supplies are screwed together, and some are glued. Mine is glued, and I don't plan to use or cut it apart at this point, so I'm not sure what cap is hiding in there. Looking at pictures on Retrostuff's blog, it looks really small for some reason. I can't see any of the details though.
+Some of the power supplies are screwed together, and some are glued. They use different brand capacitors, but the same ratings.
+
+If you'd like to replace the original Japanese power supply with a modern US one, I'd recommend the Triad Magnetics WSU090-1300. This offers a few hundred mA of headroom over the original.
 
 I also added an IC map and datasheets. I was able to find datasheets for all the ICs except the audio/video processor surprisingly. 
